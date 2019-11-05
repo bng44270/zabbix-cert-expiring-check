@@ -1,0 +1,6 @@
+###################
+# Format:
+#     <server-name> <server-port>
+#
+# Note:  if server-port is omitted 443 is used
+###################
